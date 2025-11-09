@@ -28,7 +28,7 @@ export default function ComingSoon() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1.2, duration: 0.8 }}
       >
-        Estamos preparando algo incrível para você! O Pronto Delivery vai facilitar sua vida na hora de pedir aquela refeição deliciosa!
+        Estamos preparando algo incrível para você! O Pronto Delivery vai facilitar sua vida na hora de pedir aquela refeição deliciosa.
       </motion.p>
     </div>
   );
