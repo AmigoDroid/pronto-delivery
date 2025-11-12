@@ -24,7 +24,7 @@ export function Footer() {
                 <Facebook className="h-4 w-4" />
               </Button>
               <Button variant="outline" size="icon" className="h-8 w-8">
-                <Instagram className="h-4 w-4" />
+                <Instagram className="h-4 w-4"  />
               </Button>
               <Button variant="outline" size="icon" className="h-8 w-8">
                 <Twitter className="h-4 w-4" />
@@ -74,7 +74,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                <span>contato@prontodelivery.com</span>
+                <span>contato@prontodelivery.com.br</span>
               </div>
             </div>
           </div>
