@@ -5,7 +5,7 @@ const steps = [
   {
     icon: Search,
     title: "Escolha seu prato",
-    description: "Navegue por centenas de restaurantes e encontre exatamente o que você deseja",
+    description: "Navegue pelo cardápio e encontre exatamente o que você deseja",
     color: "bg-orange-100 text-orange-500",
   },
   {

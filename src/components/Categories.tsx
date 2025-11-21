@@ -2,13 +2,10 @@ import { Card } from "./ui/card";
 
 const categories = [
   { name: "Hambúrguer", emoji: "🍔", color: "bg-orange-100 hover:bg-orange-200" },
-  { name: "Pizza", emoji: "🍕", color: "bg-red-100 hover:bg-red-200" },
-  { name: "Sushi", emoji: "🍱", color: "bg-green-100 hover:bg-green-200" },
-  { name: "Massa", emoji: "🍝", color: "bg-yellow-100 hover:bg-yellow-200" },
-  { name: "Saladas", emoji: "🥗", color: "bg-emerald-100 hover:bg-emerald-200" },
-  { name: "Sobremesas", emoji: "🍰", color: "bg-pink-100 hover:bg-pink-200" },
-  { name: "Bebidas", emoji: "🥤", color: "bg-blue-100 hover:bg-blue-200" },
-  { name: "Brasileira", emoji: "🍛", color: "bg-amber-100 hover:bg-amber-200" },
+  { name: "Pastel", emoji: "🥟", color: "bg-red-100 hover:bg-red-200" },
+  { name: "Guaraná da Amazônia", emoji: "🍨", color: "bg-pink-100 hover:bg-pink-200" },
+  { name: "Suco", emoji: "🥤", color: "bg-blue-100 hover:bg-blue-200" },
+
 ];
 
 export function Categories() {
