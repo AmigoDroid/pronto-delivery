@@ -5,7 +5,7 @@ export default function ComingSoon() {
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 text-center p-6">
       <motion.img
-        src="./logo.png" // substitua pelo caminho da sua imagem
+        src="/media/logos/logo.png" // caminho corrigido para a imagem
         alt="Pronto Delivery Logo"
         className="w-48 h-48 mb-6 drop-shadow-xl"
         initial={{ scale: 0, opacity: 0 }}
